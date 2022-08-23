@@ -2,6 +2,8 @@
 
  A simple vanilla+ origins modpack, featuring many origin addons and new / overhauled dimensions and features.
  
+ ___
+ 
 ## ===== Release 1.0 Features =====
 
 ### ✔️ Overhauled World Generation in the three Vanilla dimensions
@@ -14,5 +16,7 @@
 ### ✔️ Over 150 mods
 *...and so much more!*
 
+___
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3D1GJ6)
+[![ko-fi](https://img.shields.io/badge/Donate-Ko--fi-red?style=for-the-badge&logo=kofi&logoColor=red)](https://ko-fi.com/A0A3D1GJ6)
+[![curseforge](https://img.shields.io/badge/My-Projects-important?style=for-the-badge&logo=curseforge&logoColor=F16436)](https://www.curseforge.com/members/yingsonic/projects)
