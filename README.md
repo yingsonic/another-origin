@@ -1,4 +1,4 @@
-# [![dwnld](https://i.imgur.com/ERb0Cpc.png)](https://www.curseforge.com/minecraft/modpacks/another-origin) Another Origin 
+## [![dwnld](https://i.imgur.com/ERb0Cpc.png)](https://www.curseforge.com/minecraft/modpacks/another-origin) Another Origin 
 
 ### A simple vanilla+ origins modpack, featuring many origin addons and new / overhauled dimensions and features.
  ___
